@@ -1,4 +1,4 @@
-# GFG-Mandatory-Tak-FLAMES
+# GFG-Mandatory-Task-FLAMES
 This is a fun program to play FLAMES(Friends, Love, Affection, Marriage, Enemy, Siblings) game for two people. 
 The Rule is pretty simple. The common letters in the two names are eliminated and the flames loop in run throughout the remaining letters. The letters left at last is printed.
 
